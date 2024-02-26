@@ -44,3 +44,10 @@ int main() {
     return 0;
 }
 
+
+
+inData.txt
+Giselle Robinson Accounting
+5600 5 30
+450 9
+75 1.5
